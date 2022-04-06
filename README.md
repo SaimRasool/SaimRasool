@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaimRasool
 - 👀 I’m interested in Web Development and BlockChain
-- 🌱 I’m currently learning .Net 5.0 and REACT JS
-- 💞️ I’m looking to collaborate on .Net, REACT JS and BlockChain
+- 🌱 I’m currently learning .Net 6.0 
+- 💞️ I’m looking to collaborate on .Net and BlockChain
 - 📫 How to reach me Gmail:saimrasoolkambo@gmail.com
 
 <!---
